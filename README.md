@@ -1,4 +1,4 @@
-=======
+
 QR Code Generator
 A simple and intuitive QR Code Generator built with React JS. Create custom QR codes for URLs, text, emails, and more. Customize size, colors, and download in PNG, JPEG, or SVG formats.
 
